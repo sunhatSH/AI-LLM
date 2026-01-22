@@ -1,0 +1,11 @@
+# 忽略所有文件
+*
+
+# 但不忽略 PDF 文件
+!*.pdf
+
+# 不忽略 .gitignore 本身
+!.gitignore
+
+# 不忽略 .git 目录
+!.git/
